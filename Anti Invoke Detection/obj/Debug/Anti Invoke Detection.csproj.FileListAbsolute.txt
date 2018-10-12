@@ -1,0 +1,7 @@
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\bin\Debug\Anti Invoke Detection.exe.config
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\bin\Debug\Anti Invoke Detection.exe
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\bin\Debug\Anti Invoke Detection.pdb
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\bin\Debug\dnlib.dll
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\bin\Debug\dnlib.pdb
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\obj\Debug\Anti Invoke Detection.exe
+C:\Users\pc conect\Desktop\Cracking\Projects\Anti Invoke Detection\Anti Invoke Detection\obj\Debug\Anti Invoke Detection.pdb
